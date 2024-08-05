@@ -1,0 +1,24 @@
+.body {
+    background-color: yellow;
+    margin: auto;
+    display: block;
+    border: 40em;
+}
+.h1 {
+    text-align: center;
+}
+.button{
+    text-align: center;
+
+}
+.neko {
+    text-align: center;
+}
+.mistu {
+    text-align: center;
+}
+.pilt {
+    width: auto;
+    height: 500px;
+    text-align: center;
+}
